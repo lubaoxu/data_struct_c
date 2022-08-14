@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "heapdelete", "heapdelete\heapdelete.vcxproj", "{45550B3E-EB8D-448B-A6A4-E3F3E34474C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45550B3E-EB8D-448B-A6A4-E3F3E34474C9}.Debug|x64.ActiveCfg = Debug|x64
+		{45550B3E-EB8D-448B-A6A4-E3F3E34474C9}.Debug|x64.Build.0 = Debug|x64
+		{45550B3E-EB8D-448B-A6A4-E3F3E34474C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{45550B3E-EB8D-448B-A6A4-E3F3E34474C9}.Debug|x86.Build.0 = Debug|Win32
+		{45550B3E-EB8D-448B-A6A4-E3F3E34474C9}.Release|x64.ActiveCfg = Release|x64
+		{45550B3E-EB8D-448B-A6A4-E3F3E34474C9}.Release|x64.Build.0 = Release|x64
+		{45550B3E-EB8D-448B-A6A4-E3F3E34474C9}.Release|x86.ActiveCfg = Release|Win32
+		{45550B3E-EB8D-448B-A6A4-E3F3E34474C9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {706DB216-0D12-412D-A6E3-CC06FC60AB6F}
+	EndGlobalSection
+EndGlobal

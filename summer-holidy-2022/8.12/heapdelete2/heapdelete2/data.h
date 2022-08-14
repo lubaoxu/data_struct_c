@@ -1,0 +1,8 @@
+#pragma once
+
+struct Data {
+	int nVal; // ¹¹Ôìº¯Êý
+	Data(int n) {
+		nVal = n;
+	}
+};
