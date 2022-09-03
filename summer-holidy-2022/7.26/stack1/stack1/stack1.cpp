@@ -6,6 +6,8 @@
 
 #define MAX_COUNT 100
 
+// hello
+
 struct tagData {
 	int nPrice;
 	int weight;
